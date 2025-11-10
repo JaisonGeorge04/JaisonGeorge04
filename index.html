@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Personal Portfolio Website Design | Codehal</title>
+
+    <!-- box icons -->
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <!-- header design -->
+     <header class="header">
+        <a href="#" class="logo">Portfolio</a>
+
+        <i class='bx bx-menu' id="menu-icon"></i>
+
+        <nav class="navbar">
+            <a href="#home" class="active">Home</a>
+            <a href="#about">About</a>
+            <a href="#certificates">Certificates</a>
+            <a href="#project">Project</a>
+            <a href="#contact">Contact</a>
+        </nav>
+     </header>
+
+    <!-- home section design -->
+    <section class="home" id="home">
+        <div class="home-content">
+             <h3>Hello, It's Me</h3>
+             <h1>Jaison George</h1>
+             <h3>And I'm a <span class="multiple-text"></span></h3>
+             <p>A Motivated Master of Computer Applications student focusing on Data analyst.
+              I have built a solid foundation in programming languages including Python, Java, SQL, and HTML.​
+             </p>
+             <div class="social-media">
+                 <a href="#"><i class='bx bxl-facebook' ></i></a>
+                 <a href="#"><i class='bx bxl-twitter' ></i></a>
+                 <a href="https://github.com/JaisonGeorge04"><i class='bx bxl-github' ></i></a>
+                 <a href="http://www.linkedin.com/in/jaison-george-887891310"><i class='bx bxl-linkedin' ></i></a>
+        </div>
+        <a href="#" class="btn">Download CV</a>
+      </div>
+
+      <div class="home-img">
+        <img src="images/profesionalLook.jpg" alt="">
+      </div>
+    </section>
+    <!-- about section design -->
+     <section class="about" id="about">
+      <div class="about-img">
+        <img src="images/Professinal 2.jpg" alt="">
+      </div>
+
+      <div class="about-content">
+  <h2 class="heading">About <span>Me</span></h2>
+  <h3>MCA Student!</h3>
+  <p id="about-text">
+    I am currently pursuing my Master of Computer Applications (MCA) 
+    at Lead College (Autonomous), Palakkad. I have completed my Bachelor 
+    of Science in Computer Science from St. Thomas College, Kozhencherry. 
+    <span id="more-text" style="display:none;">
+      I have strong skills in Python, Java, and HTML, and I am passionate 
+    about developing efficient, user-friendly applications.
+      I’m eager to apply my technical knowledge and problem-solving skills 
+      in a professional environment that fosters learning and innovation. 
+      My interests also include exploring AI tools, web technologies, and 
+      creative problem-solving using software.
+    </span>
+  </p>
+  <button id="read-more-btn" class="btn">Read More</button>
+</div>
+
+<!-- Simple Script -->
+<script>
+  const btn = document.getElementById('read-more-btn');
+  const moreText = document.getElementById('more-text');
+
+  btn.addEventListener('click', () => {
+    if (moreText.style.display === 'none') {
+      moreText.style.display = 'inline';
+      btn.textContent = 'Read Less';
+    } else {
+      moreText.style.display = 'none';
+      btn.textContent = 'Read More';
+    }
+  });
+</script>
+
+<!-- Optional smooth style -->
+<style>
+  .btn {
+    margin-top: 10px;
+    background: #00ffff;
+    color: #111;
+    padding: 8px 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s ease;
+  }
+
+  .btn:hover {
+    background: #00cccc;
+  }
+</style>
+     </section>
+
+    <!-- services section design -->
+     <section class="certificates" id="certificates">
+    <h2 class="heading">My <span>Certificates</span></h2>
+
+    <div class="services-container">
+        
+    <div class="services-box">
+        <img src="images/digital marketing.png" alt="Digital Marketing Certificate" class="certificate-img">
+        <h3>Digital Marketing</h3>
+        <p>Gained foundational knowledge of digital marketing, including SEO, social media, and online advertising strategies.</p>
+        <a href="images/digital marketing.png" target="_blank" class="btn">View Certificate</a>
+    </div>
+
+    <div class="services-box">
+        <img src="images/prompt engineering.png" alt="Prompt Engineering Certificate" class="certificate-img">
+        <h3>Prompt Engineering</h3>
+        <p>Gained practical knowledge of crafting precise prompts to improve AI output accuracy and creativity.</p>
+        <a href="images/prompt engineering.png" target="_blank" class="btn">View Certificate</a>
+    </div>
+
+</div>
+
+<style>
+    .certificate-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+        transition: 0.4s ease; /* Smooth motion */
+    }
+
+    /* Slide-right effect on hover */
+    .services-box:hover .certificate-img {
+        transform: translateX(10px);
+    }
+</style>
+</section>
+
+<!-- CSS Styling -->
+<style>
+    .certificates {
+        padding: 4rem 2rem;
+        text-align: center;
+    }
+
+    .services-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .services-box {
+        background: #1b1b1b;
+        border-radius: 15px;
+        padding: 20px;
+        width: 320px;
+        box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+        transition: 0.3s ease;
+    }
+
+    .services-box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 0 25px #00ffff;
+    }
+
+    .certificate-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    .btn {
+        display: inline-block;
+        margin-top: 10px;
+        background: #00ffff;
+        color: #111;
+        padding: 8px 18px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.3s ease;
+    }
+
+    .btn:hover {
+        background: #00cccc;
+    }
+</style>
+
+    <!-- portfolio section design -->
+     <section class="project" id="project">
+      <h2 class="heading">Latest <span>Project</span></h2>
+
+      <div class="portfolio-container">
+        <div class="portfolio-box">
+          <img src="images/portfolio1.jpg" alt="">
+          <div class="portfolio-layer">
+            <h4>Hostel Management System</h4>
+            <p>Built a web-based application using HTML, CSS, and Django to manage hostel operations. </p>
+            <a href="#"><i class="bx bx-link-external"></i></a>
+          </div>
+      </div>    
+
+        <div class="portfolio-box">
+  <img src="images/portfolio2.jpg" alt="Breast Cancer Prediction System">
+
+  <div class="portfolio-layer">
+    <h4>Breast Cancer Prediction System</h4>
+    <p>
+      A machine learning–based diagnostic tool built using Gradient Boosting Classifier
+      and Streamlit to classify breast tumors as Benign or Malignant.
+    </p>
+
+    <div class="portfolio-links">
+      <a href="https://github.com/JaisonGeorge04/Breast-Cancer-Prediction-System" target="_blank">
+        <i class="bx bx-link-external"></i>
+      </a>
+
+      <a href="https://project1-cancerprediction.streamlit.app/" target="_blank">
+        <i class="bx bx-link-external"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+        <div class="portfolio-box">
+          <img src="images/portfolio3.jpg" alt="">
+          <div class="portfolio-layer">
+            <h4>Web Design</h4>
+            <p>lorem ipsum bbbg is do that gggg vkucwdchv hjhdva you is hi hai </p>
+            <a href="#"><i class="bx bx-link-external"></i></a>
+          </div>
+        </div>
+
+        <div class="portfolio-box">
+          <img src="images/portfolio4.jpg" alt="">
+          <div class="portfolio-layer">
+            <h4>Web Design</h4>
+            <p>lorem ipsum bbbg is do that gggg vkucwdchv hjhdva you is hi hai </p>
+            <a href="#"><i class="bx bx-link-external"></i></a>
+          </div>
+        </div>
+
+        <div class="portfolio-box">
+          <img src="images/portfolio5.jpg" alt="">
+          <div class="portfolio-layer">
+            <h4>Web Design</h4>
+            <p>lorem ipsum bbbg is do that gggg vkucwdchv hjhdva you is hi hai </p>
+            <a href="#"><i class="bx bx-link-external"></i></a>
+          </div>
+        </div>
+
+        <div class="portfolio-box">
+          <img src="images/portfolio6.jpg" alt="">
+          <div class="portfolio-layer">
+            <h4>Web Design</h4>
+            <p>lorem ipsum bbbg is do that gggg vkucwdchv hjhdva you is hi hai </p>
+            <a href="#"><i class="bx bx-link-external"></i></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- contact section design -->
+    <section class="contact" id="contact">
+    <h2 class="heading">Contact <span>Me!</span></h2>
+
+    <form id="contact-form" action="https://formsubmit.co/jaisongeorge699@gmail.com" method="POST">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_template" value="table">
+        
+        <div class="input-box">
+            <input type="text" name="name" placeholder="Full Name" required>
+            <input type="email" name="email" placeholder="Email Address" required>
+        </div>
+
+        <div class="input-box">
+            <input type="tel" name="mobile" placeholder="Mobile Number" required>
+            <input type="text" name="subject" placeholder="Email Subject" required>
+        </div>
+        
+        <textarea name="message" cols="30" rows="10" placeholder="Your Message" required></textarea>
+        
+        <input type="submit" value="Send Message" class="btn">
+    </form>
+
+    <!-- Center Popup Message -->
+    <div id="popup-message">
+        <p id="popup-text">✅ Message sent successfully!</p>
+    </div>
+</section>
+
+<style>
+    /* Center popup box */
+    #popup-message {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: rgba(20, 20, 20, 0.95);
+        color: #00ffff;
+        padding: 20px 35px;
+        border-radius: 15px;
+        font-size: 1.3rem;
+        font-weight: 600;
+        text-align: center;
+        box-shadow: 0 0 25px #00ffff;
+        z-index: 1000;
+        opacity: 0;
+        animation: fadeInCenter 0.5s forwards;
+    }
+
+    /* Fade in */
+    @keyframes fadeInCenter {
+        from { opacity: 0; transform: translate(-50%, -48%); }
+        to { opacity: 1; transform: translate(-50%, -50%); }
+    }
+
+    /* Fade out */
+    @keyframes fadeOutCenter {
+        from { opacity: 1; transform: translate(-50%, -50%); }
+        to { opacity: 0; transform: translate(-50%, -52%); }
+    }
+</style>
+
+<script>
+    const form = document.getElementById('contact-form');
+    const popup = document.getElementById('popup-message');
+    const popupText = document.getElementById('popup-text');
+
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const formData = new FormData(form);
+
+        fetch(form.action, { method: form.method, body: formData })
+        .then(response => {
+            if (response.ok) {
+                form.reset();
+                // Show popup
+                popup.style.display = 'block';
+                popup.style.animation = 'fadeInCenter 0.5s forwards';
+                popupText.textContent = '✅ Message sent successfully!';
+
+                // After 2 seconds, change text to "Thank you"
+                setTimeout(() => {
+                    popupText.textContent = ' Thank you for contacting me!';
+                }, 2000);
+
+                // Hide after total 5 seconds
+                setTimeout(() => {
+                    popup.style.animation = 'fadeOutCenter 0.5s forwards';
+                    setTimeout(() => popup.style.display = 'none', 500);
+                }, 5000);
+            } else {
+                alert('❌ Failed to send message. Please try again.');
+            }
+        })
+        .catch(() => alert('Error! Please try again.'));
+    });
+</script>
+
+
+    <!-- footer design -->
+    <footer class="footer">
+    <div class="footer-text">
+        <p>Copyright &copy; 2025 by Jaison George | All Rights Reserved.</p>
+    </div>
+
+    <div class="footer-iconTop">
+        <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+    </div>
+</footer>
+
+    <!-- scroll reveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+    <!-- typed js -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+    <!-- custom js -->
+    <script src="js/script.js"></script>
+  </body>
+</html>
