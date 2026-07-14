@@ -191,7 +191,6 @@ def render(data):
     parts.append("</svg>")
     return "".join(parts)
 
-
 if __name__ == "__main__":
     data = json.load(open(IN_PATH))
     svg = render(data)
