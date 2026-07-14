@@ -108,7 +108,6 @@ def build_data(days):
         "days": days,
     }
 
-
 if __name__ == "__main__":
     days = fetch_days()
     data = build_data(days)
