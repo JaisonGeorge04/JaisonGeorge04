@@ -1,13 +1,13 @@
 """
 Prepare a portrait photo for clean ASCII conversion:
-  1. remove the background (rembg) so the subject is isolated
+  1. Remove the background (rembg) so the subject is isolated
   2. boost LOCAL contrast (CLAHE) so a flatly-lit face gains highlights and
      shadows -- this is what turns a dark blob into a recognizable face
   3. composite the subject onto pure white so the background reads as blank
-     (white -> spaces in the ascii ramp)
+     (white -> spaces in the ASCII ramp)
 
 Output: source-prepped.png (grayscale), consumed by make_ascii_svg.py.
-Run once whenever the source photo changes; the ascii SVG itself is static.
+Run once whenever the source photo changes; the ASCII SVG itself is static.
 
     python scripts/prep_photo.py <input.jpg> [output.png]
 """
