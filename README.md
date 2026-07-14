@@ -15,7 +15,7 @@
 
 ## Jaison George
 
-**Full-Stack Developer · Cloud & DevOps · ML Enthusiast**
+**Full-Stack Developer · Cloud & DevOps · AI/ML Enthusiast**
 
 [Portfolio](https://jaisongeorge04.github.io/PortFolio/)
 [LinkedIn](https://www.linkedin.com/in/jaison-george-887891310/)
