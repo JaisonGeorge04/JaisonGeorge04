@@ -63,7 +63,6 @@ def compute_current_streak(days):
         return 0, None, None
     return streak, days[start_idx]["date"], days[end_idx]["date"]
 
-
 def compute_longest_streak(days):
     longest = run = 0
     longest_start = longest_end = None
