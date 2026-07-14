@@ -21,7 +21,6 @@ USERNAME = os.environ.get("GH_PROFILE_USER", "JaisonGeorge04")
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 
-
 def fetch_days():
     resp = requests.get(URL, headers={"User-Agent": "profile-readme-bot/1.0"}, timeout=30)
     resp.raise_for_status()
