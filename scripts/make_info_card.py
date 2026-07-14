@@ -54,7 +54,7 @@ ROWS = [
     ("sec", "Stack"),
     ("kv", "Backend", "Python, Django, Flask"),
     ("kv", "Cloud", "AWS, Docker, Kubernetes"),
-    ("kv", "Frontend", "JavaScript, TypeScript, CSS"),
+    ("kv", "Frontend", "JavaScript, TypeScript, HTML, CSS"),
     ("kv", "AI / ML", "ML systems & AI applications"),
     ("gap",),
     ("sec", "Highlights"),
