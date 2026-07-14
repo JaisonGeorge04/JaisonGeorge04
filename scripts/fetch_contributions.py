@@ -50,7 +50,6 @@ def fetch_days():
     days.sort(key=lambda d: d["date"])
     return days
 
-
 def compute_current_streak(days):
     idx = len(days) - 1
     if days[idx]["count"] == 0:
