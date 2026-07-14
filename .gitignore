@@ -1,0 +1,7 @@
+﻿# Local source and preview files; generated public profile assets are tracked explicitly.
+.professionalLook.jpg
+profesionalLook.jpg
+source-prepped.png
+avi-ascii-preview.svg
+.profile-readme.patch
+scripts/__pycache__/
