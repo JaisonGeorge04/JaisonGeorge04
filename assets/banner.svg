@@ -455,32 +455,6 @@ AI / ML
 
 
 </g>
-    <!-- Glowing Platform Line -->
-
-<line
-x1="180"
-y1="420"
-x2="1020"
-y2="420"
-stroke="#ffd700"
-stroke-width="3">
-
-
-<animate
-attributeName="opacity"
-values="0.4;1;0.4"
-dur="2s"
-repeatCount="indefinite"/>
-
-
-<animate
-attributeName="stroke-width"
-values="3;7;3"
-dur="2s"
-repeatCount="indefinite"/>
-
-
-</line>
 
 
 
