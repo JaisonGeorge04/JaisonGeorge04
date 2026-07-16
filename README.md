@@ -45,17 +45,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer and MCA student** focused on building scalable applications, AI-powered solutions, and cloud-native systems.
+I'm a **Software Developer and MCA student** passionate about building scalable applications, AI-driven solutions, and cloud-native systems.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** with a focus on Cloud Computing
-- 💻 Experienced in building applications using **Python, Django, JavaScript, and SQL**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, and AI-powered applications**
-- ☁️ Learning and implementing **Cloud & DevOps practices using AWS, Docker, Jenkins, and Terraform**
-- 🔐 Interested in **Cybersecurity, Cloud Infrastructure, and Secure Software Development**
-- 🚀 Building real-world projects that solve practical problems
-- 🌱 Currently improving my skills in **System Design, Data Structures & Algorithms, and Cloud Architecture**
+- 🎓 Pursuing **Master of Computer Applications (MCA)** with a focus on **Cloud Computing**
+- 💻 Building full-stack applications using **Python, Django, JavaScript, SQL, and modern web technologies**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Generative AI applications**
+- ☁️ Developing skills in **Cloud & DevOps with AWS, Docker, Jenkins, Terraform, and Linux**
+- 🔐 Interested in **Cybersecurity, Cloud Infrastructure, and Secure Development Practices**
+- 🚀 Creating real-world projects that combine **software engineering, AI, and cloud technologies**
 
-I believe in continuous learning, creating impactful solutions, and contributing to the developer community.
+Currently improving my knowledge in **System Design, Data Structures & Algorithms, and Cloud Architecture** while building solutions that create practical impact.
 
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
