@@ -4,7 +4,6 @@ xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
-<!-- Premium Gold Gradient -->
 <linearGradient id="goldMetal" x1="0" y1="0" x2="1" y2="1">
 
 <stop offset="0%" stop-color="#fff7b0"/>
@@ -16,25 +15,15 @@ xmlns="http://www.w3.org/2000/svg">
 </linearGradient>
 
 
-<!-- Dark Background -->
 <radialGradient id="darkBg">
 
-<stop offset="0%" stop-color="#1b1200"/>
+<stop offset="0%" stop-color="#211600"/>
 <stop offset="45%" stop-color="#090909"/>
 <stop offset="100%" stop-color="#000000"/>
 
 </radialGradient>
 
 
-<!-- Gold Glow -->
-<filter id="goldGlow">
-
-<feGaussianBlur stdDeviation="6"/>
-
-</filter>
-
-
-<!-- Text Depth -->
 <filter id="textShadow">
 
 <feDropShadow
@@ -45,8 +34,6 @@ flood-color="#000000"/>
 
 </filter>
 
-
-<!-- Shine -->
 
 <linearGradient id="shine">
 
@@ -112,21 +99,12 @@ fill="none">
 <path d="M950 430 V380 H1130"/>
 
 
-<circle cx="70" cy="120" r="6" fill="#ffd700"/>
-
-<circle cx="1130" cy="120" r="6" fill="#ffd700"/>
-
-<circle cx="70" cy="380" r="6" fill="#ffd700"/>
-
-<circle cx="1130" cy="380" r="6" fill="#ffd700"/>
-
-
 </g>
 
 
 
 
-<!-- Name Shadow Layer -->
+<!-- Name Shadow -->
 
 <text
 x="600"
@@ -143,7 +121,8 @@ JAISON GEORGE
 
 
 
-<!-- Main 3D Gold Name -->
+
+<!-- Main Gold Name -->
 
 <text
 x="600"
@@ -157,11 +136,13 @@ filter="url(#textShadow)">
 
 JAISON GEORGE
 
+
 <animate
 attributeName="opacity"
 values="0.85;1;0.85"
 dur="3s"
 repeatCount="indefinite"/>
+
 
 </text>
 
@@ -185,7 +166,6 @@ to="1300"
 dur="5s"
 repeatCount="indefinite"/>
 
-
 </rect>
     <!-- Developer Role -->
 
@@ -204,11 +184,13 @@ SOFTWARE DEVELOPER | AI ENGINEER | CLOUD &amp; DEVOPS
 
 
 
-<!-- Tech Platform -->
+
+<!-- Technology Section -->
 
 <g transform="translate(110,320)"
 font-family="Arial"
 text-anchor="middle">
+
 
 
 <!-- Python -->
@@ -220,15 +202,23 @@ cy="35"
 r="38"
 fill="#3776AB"
 stroke="#ffd700"
-stroke-width="3"/>
+stroke-width="3">
 
 
-<!-- Python symbol -->
+<animate
+attributeName="opacity"
+values="0.7;1;0.7"
+dur="3s"
+repeatCount="indefinite"/>
+
+
+</circle>
+
 
 <text
 x="50"
 y="43"
-font-size="26"
+font-size="25"
 font-weight="bold"
 fill="white">
 
@@ -247,7 +237,6 @@ Python
 
 </text>
 
-
 </g>
 
 
@@ -256,6 +245,7 @@ Python
 <!-- AWS -->
 
 <g transform="translate(170,0)">
+
 
 <circle cx="50"
 cy="35"
@@ -277,7 +267,8 @@ aws
 </text>
 
 
-<path d="M25 52 Q50 65 75 52"
+<path
+d="M25 52 Q50 65 75 52"
 stroke="#ff9900"
 stroke-width="3"
 fill="none"/>
@@ -289,12 +280,13 @@ y="115"
 font-size="18"
 fill="#ffd700">
 
-AWS Cloud
+AWS
 
 </text>
 
 
 </g>
+
 
 
 
@@ -308,16 +300,17 @@ AWS Cloud
 cy="35"
 r="38"
 fill="#2496ED"
-stroke="#ffffff"
+stroke="white"
 stroke-width="3"/>
 
 
-<rect x="32"
+<rect
+x="32"
 y="25"
 width="36"
 height="20"
-fill="white"
-rx="3"/>
+rx="3"
+fill="white"/>
 
 
 <text
@@ -336,6 +329,7 @@ Docker
 
 
 
+
 <!-- Terraform -->
 
 <g transform="translate(510,0)">
@@ -345,13 +339,13 @@ Docker
 cy="35"
 r="38"
 fill="#7B42BC"
-stroke="#ffffff"
+stroke="white"
 stroke-width="3"/>
 
 
 <text
 x="50"
-y="45"
+y="46"
 font-size="32"
 font-weight="bold"
 fill="white">
@@ -377,6 +371,7 @@ Terraform
 
 
 
+
 <!-- Jenkins -->
 
 <g transform="translate(680,0)">
@@ -386,13 +381,13 @@ Terraform
 cy="35"
 r="38"
 fill="#D24939"
-stroke="#ffffff"
+stroke="white"
 stroke-width="3"/>
 
 
 <text
 x="50"
-y="45"
+y="46"
 font-size="32"
 font-weight="bold"
 fill="white">
@@ -418,7 +413,8 @@ Jenkins
 
 
 
-<!-- AI -->
+
+<!-- AI / ML -->
 
 <g transform="translate(850,0)">
 
@@ -457,10 +453,9 @@ AI / ML
 </g>
 
 
+
 </g>
     <!-- Glowing Platform Line -->
-
-<!-- Glowing Platform Line -->
 
 <line
 x1="180"
@@ -480,24 +475,7 @@ repeatCount="indefinite"/>
 
 <animate
 attributeName="stroke-width"
-values="3;6;3"
-dur="2s"
-repeatCount="indefinite"/>
-
-
-</line>
-
-
-<animate
-attributeName="opacity"
-values="0.4;1;0.4"
-dur="2s"
-repeatCount="indefinite"/>
-
-
-<animate
-attributeName="stroke-width"
-values="4;8;4"
+values="3;7;3"
 dur="2s"
 repeatCount="indefinite"/>
 
@@ -506,11 +484,12 @@ repeatCount="indefinite"/>
 
 
 
-<!-- Bottom Tag -->
+
+<!-- Bottom Message -->
 
 <text
 x="600"
-y="455"
+y="465"
 text-anchor="middle"
 font-family="monospace"
 font-size="22"
@@ -521,7 +500,7 @@ BUILD • DEPLOY • INNOVATE
 
 </text>
 
-</g>
+
 
 
 <!-- Floating Gold Particles -->
@@ -529,44 +508,47 @@ BUILD • DEPLOY • INNOVATE
 <g fill="#ffd700">
 
 
-<circle cx="280" cy="80" r="4">
+<circle cx="260" cy="90" r="4">
 
 <animate
 attributeName="cy"
-values="80;60;80"
+values="90;60;90"
 dur="3s"
 repeatCount="indefinite"/>
 
 </circle>
 
 
-<circle cx="930" cy="90" r="3">
+
+<circle cx="930" cy="100" r="3">
 
 <animate
 attributeName="cy"
-values="90;55;90"
+values="100;65;100"
 dur="4s"
 repeatCount="indefinite"/>
 
 </circle>
 
 
-<circle cx="1040" cy="250" r="4">
+
+<circle cx="1050" cy="240" r="4">
 
 <animate
 attributeName="cy"
-values="250;210;250"
+values="240;200;240"
 dur="3s"
 repeatCount="indefinite"/>
 
 </circle>
 
 
-<circle cx="170" cy="250" r="3">
+
+<circle cx="150" cy="250" r="3">
 
 <animate
 attributeName="cy"
-values="250;200;250"
+values="250;210;250"
 dur="4s"
 repeatCount="indefinite"/>
 
@@ -578,8 +560,8 @@ repeatCount="indefinite"/>
 
 
 
-<!-- Moving Gold Light Beam -->
 
+<!-- Moving Gold Light Beam -->
 
 <rect
 x="-250"
@@ -603,10 +585,11 @@ repeatCount="indefinite"/>
 
 
 
-<!-- Tech Glow Rings -->
 
+<!-- Icon Glow Rings -->
 
-<g fill="none"
+<g
+fill="none"
 stroke="#ffd700"
 stroke-width="2">
 
@@ -622,6 +605,7 @@ repeatCount="indefinite"/>
 </circle>
 
 
+
 <circle cx="330" cy="355" r="45">
 
 <animate
@@ -631,6 +615,7 @@ dur="3.2s"
 repeatCount="indefinite"/>
 
 </circle>
+
 
 
 <circle cx="500" cy="355" r="45">
@@ -644,6 +629,7 @@ repeatCount="indefinite"/>
 </circle>
 
 
+
 <circle cx="670" cy="355" r="45">
 
 <animate
@@ -655,6 +641,7 @@ repeatCount="indefinite"/>
 </circle>
 
 
+
 <circle cx="840" cy="355" r="45">
 
 <animate
@@ -664,6 +651,7 @@ dur="3.8s"
 repeatCount="indefinite"/>
 
 </circle>
+
 
 
 <circle cx="1010" cy="355" r="45">
@@ -678,6 +666,7 @@ repeatCount="indefinite"/>
 
 
 </g>
+
 
 
 
