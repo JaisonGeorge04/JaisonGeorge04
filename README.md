@@ -4,6 +4,14 @@
   Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
   card the same height -- if you change the info card's H, re-match these.
 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=100&lines=Jaison+George" />
+</p>
+
+<p align="center">
+  <b>Software Developer | AI Engineer | Cloud & DevOps Enthusiast</b>
+</p>
+
 <div align="center">
 
 <table>
