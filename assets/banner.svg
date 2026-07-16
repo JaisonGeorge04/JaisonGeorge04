@@ -239,7 +239,7 @@ Py
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -285,7 +285,7 @@ fill="none"/>
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -322,7 +322,7 @@ rx="3"/>
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -363,7 +363,7 @@ T
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -404,7 +404,7 @@ J
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -445,7 +445,7 @@ AI
 
 <text
 x="50"
-y="100"
+y="115"
 font-size="18"
 fill="#ffd700">
 
@@ -460,13 +460,32 @@ AI / ML
 </g>
     <!-- Glowing Platform Line -->
 
+<!-- Glowing Platform Line -->
+
 <line
 x1="180"
-y1="445"
+y1="420"
 x2="1020"
-y2="445"
+y2="420"
 stroke="#ffd700"
-stroke-width="4">
+stroke-width="3">
+
+
+<animate
+attributeName="opacity"
+values="0.4;1;0.4"
+dur="2s"
+repeatCount="indefinite"/>
+
+
+<animate
+attributeName="stroke-width"
+values="3;6;3"
+dur="2s"
+repeatCount="indefinite"/>
+
+
+</line>
 
 
 <animate
