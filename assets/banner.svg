@@ -1,166 +1,128 @@
-<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Technology Icons Section -->
 
-<defs>
+<g transform="translate(120,280)">
 
-<!-- Gold metallic text -->
-<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#fff3a3"/>
-    <stop offset="25%" stop-color="#ffd700"/>
-    <stop offset="50%" stop-color="#c58a00"/>
-    <stop offset="75%" stop-color="#ffdf70"/>
-    <stop offset="100%" stop-color="#8b6508"/>
-</linearGradient>
+<!-- Python -->
+<g>
+<circle cx="40" cy="20" r="22" fill="#3776AB"/>
+<text x="40" y="27"
+text-anchor="middle"
+font-size="20"
+font-weight="bold"
+fill="white">Py</text>
 
-<!-- Background -->
-<linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#030303"/>
-    <stop offset="0.5" stop-color="#111111"/>
-    <stop offset="1" stop-color="#050505"/>
-</linearGradient>
-
-<!-- Glow -->
-<filter id="glow">
-    <feGaussianBlur stdDeviation="5" result="blur"/>
-    <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-</filter>
-
-<!-- Shadow -->
-<filter id="shadow">
-    <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000000"/>
-</filter>
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+Python
+</text>
+</g>
 
 
-<!-- Moving shine -->
-<linearGradient id="shine">
-    <stop offset="0%" stop-color="transparent"/>
-    <stop offset="50%" stop-color="#ffffff"/>
-    <stop offset="100%" stop-color="transparent"/>
-</linearGradient>
-
-
-</defs>
-
-
-<!-- Background -->
-
-<rect width="1200" height="400" rx="25" fill="url(#background)"/>
-
-
-<!-- Border -->
-
-<rect x="15" y="15" width="1170" height="370" rx="25"
-stroke="#d4af37"
-stroke-width="3"
-opacity="0.8"/>
-
-
-<!-- Tech corners -->
-
-<path d="M50 90 H250 V50"
-stroke="#d4af37"
-stroke-width="3"/>
-
-<path d="M950 50 V90 H1150"
-stroke="#d4af37"
-stroke-width="3"/>
-
-<path d="M50 310 H250 V350"
-stroke="#d4af37"
-stroke-width="3"/>
-
-<path d="M950 350 V310 H1150"
-stroke="#d4af37"
-stroke-width="3"/>
-
-
-
-<!-- Name -->
-
-<text x="600"
-      y="170"
-      text-anchor="middle"
-      font-family="Arial, Helvetica, sans-serif"
-      font-size="95"
-      font-weight="900"
-      fill="url(#gold)"
-      filter="url(#shadow)">
-      
-      JAISON GEORGE
-
+<!-- AWS -->
+<g transform="translate(150,0)">
+<circle cx="40" cy="20" r="22" fill="#232F3E"/>
+<text x="40" y="26"
+text-anchor="middle"
+font-size="14"
+font-weight="bold"
+fill="#ff9900">
+aws
 </text>
 
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+AWS
+</text>
+</g>
 
 
-<!-- Moving golden light -->
-
-<rect x="-300"
-      y="70"
-      width="220"
-      height="130"
-      fill="url(#shine)"
-      opacity="0.35">
-
-    <animate 
-        attributeName="x"
-        from="-300"
-        to="1300"
-        dur="4s"
-        repeatCount="indefinite"/>
-
-</rect>
-
-
-
-<!-- Role -->
-
-<text x="600"
-      y="245"
-      text-anchor="middle"
-      font-family="Arial"
-      font-size="32"
-      font-weight="700"
-      fill="#ffffff">
-
-SOFTWARE DEVELOPER | AI ENGINEER | CLOUD &amp; DEVOPS
-
+<!-- Docker -->
+<g transform="translate(300,0)">
+<circle cx="40" cy="20" r="22" fill="#2496ED"/>
+<text x="40" y="27"
+text-anchor="middle"
+font-size="16"
+font-weight="bold"
+fill="white">
+◆
 </text>
 
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+Docker
+</text>
+</g>
 
 
-<!-- Skills -->
-
-<text x="600"
-      y="310"
-      text-anchor="middle"
-      font-family="monospace"
-      font-size="25"
-      fill="#d4af37">
-
-Python • AWS • Docker • Terraform • Jenkins • AI/ML
-
+<!-- Terraform -->
+<g transform="translate(450,0)">
+<circle cx="40" cy="20" r="22" fill="#7B42BC"/>
+<text x="40" y="27"
+text-anchor="middle"
+font-size="18"
+font-weight="bold"
+fill="white">
+T
 </text>
 
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+Terraform
+</text>
+</g>
 
 
-<!-- Bottom animated line -->
+<!-- Jenkins -->
+<g transform="translate(600,0)">
+<circle cx="40" cy="20" r="22" fill="#D24939"/>
+<text x="40" y="27"
+text-anchor="middle"
+font-size="18"
+font-weight="bold"
+fill="white">
+J
+</text>
 
-<line x1="250"
-      y1="345"
-      x2="950"
-      y2="345"
-      stroke="#ffd700"
-      stroke-width="4">
-
-    <animate
-        attributeName="stroke-width"
-        values="4;10;4"
-        dur="2s"
-        repeatCount="indefinite"/>
-
-</line>
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+Jenkins
+</text>
+</g>
 
 
-</svg>
+<!-- AI -->
+<g transform="translate(750,0)">
+<circle cx="40" cy="20" r="22" fill="#111"/>
+<text x="40" y="27"
+text-anchor="middle"
+font-size="16"
+font-weight="bold"
+fill="#ffd700">
+AI
+</text>
+
+<text x="40" y="65"
+text-anchor="middle"
+font-family="Arial"
+font-size="16"
+fill="#ffd700">
+AI/ML
+</text>
+</g>
+
+</g>
