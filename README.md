@@ -22,11 +22,34 @@
 </h3>
 
 <p align="center">
+  <h1 align="center">
+  Hi 👋, I'm Jaison George
+</h1>
+
+<h3 align="center">
+  Software Developer | AI Engineer | Cloud & DevOps Enthusiast
+</h3>
+
+<p align="center">
   Building scalable applications, AI-powered solutions, and cloud-native systems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Projects;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <a href="https://jaisongeorge04.github.io/PortFolio/">
+    Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/jaison-george-887891310/">
+    LinkedIn
+  </a>
+  •
+  <a href="jaisongeorge699@gmail.com">
+    Email
+  </a>
 </p>
 
 <!-- animated contribution graph, refreshed daily by the workflow -->
