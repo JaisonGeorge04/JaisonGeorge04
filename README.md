@@ -1,6 +1,6 @@
 <!--
   This is your PROFILE README. It goes in a repo named exactly after your
-  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  username (e.g. github.com/OCTOCAT/OCTOCAT), so GitHub shows it on your profile.
   Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
   card the same height -- if you change the info card's H, re-match these.
 -->
@@ -13,15 +13,18 @@
 </tr>
 </table>
 
-## Jaison George
+<h1 align="center">
+Jaison George
+</h1>
 
-**Full-Stack Developer · Cloud & DevOps · ML Enthusiast**
+<h3 align="center">
+Full-Stack Developer · Cloud & DevOps · ML Enthusiast
+</h3>
 
-[Explore my Portfolio  &rarr;](https://jaisongeorge04.github.io/PortFolio/) &middot; [LinkedIn](https://www.linkedin.com/in/jaison-george-887891310/) &middot; [Instagram](https://www.instagram.com/jaisongeorge699?igsh=NXBhODY3NnAwaHd6)
-
-<br>
-
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-</div>
+<p align="center">
+<a href="">Explore my Portfolio →</a>
+·
+<a href="">LinkedIn</a>
+·
+<a href="">Instagram</a>
+</p>
