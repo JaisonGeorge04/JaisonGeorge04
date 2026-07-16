@@ -14,20 +14,20 @@
 </table>
 
 <h1 align="center">
-Jaison George
+  Hi 👋, I'm Jaison George
 </h1>
 
 <h3 align="center">
-Full-Stack Developer · Cloud & DevOps · ML Enthusiast
+  Software Developer | AI Engineer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-<a href="">Explore my Portfolio →</a>
-·
-<a href="">LinkedIn</a>
-·
-<a href="">Instagram</a>
-</p>s
+  Building scalable applications, AI-powered solutions, and cloud-native systems.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" />
+</p>
 
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
