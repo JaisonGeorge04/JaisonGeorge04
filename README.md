@@ -27,4 +27,9 @@ Full-Stack Developer · Cloud & DevOps · ML Enthusiast
 <a href="">LinkedIn</a>
 ·
 <a href="">Instagram</a>
-</p>
+</p>s
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+</div>
