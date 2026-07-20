@@ -130,7 +130,6 @@ Currently improving my knowledge in:
 
 ## 🚀 Featured Projects
 
-
 ### 🤖 AI Resume Analyzer
 
 AI-powered resume analysis platform that extracts skills, evaluates resumes, and provides intelligent insights.
