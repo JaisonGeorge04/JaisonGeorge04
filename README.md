@@ -146,9 +146,7 @@ Features:
 🔗 Repository:
 https://github.com/JaisonGeorge04/AI-Resume-Analyzer
 
-
 ---
-
 
 ### 🏠 Hostel Management System
 
@@ -162,7 +160,6 @@ Features:
 - Authentication system
 - Role-based access
 - Management workflows
-
 
 ---
 
