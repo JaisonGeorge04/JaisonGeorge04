@@ -202,7 +202,6 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 
 <br>
 
-
 <!-- Contribution Animation -->
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub Contribution Graph"/>
@@ -230,6 +229,5 @@ Email
 </a>
 
 </p>
-
 
 </div>
