@@ -104,7 +104,6 @@ Currently improving my knowledge in:
 
 </p>
 
-
 ### Cloud & DevOps
 
 <p>
@@ -124,9 +123,7 @@ Currently improving my knowledge in:
 
 </p>
 
-
 <br>
-
 
 ## 🚀 Featured Projects
 
