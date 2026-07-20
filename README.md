@@ -1,7 +1,7 @@
 <!--
 Profile README for JaisonGeorge04
 Repository:
-github.com/JaisonGeorge04/JaisonGeorge04
+github.com/JaisonGeorge04/JaisonGeorge04 
 
 Assets:
 ./assets/banner.svg
