@@ -80,12 +80,9 @@ Currently improving my knowledge in:
 
 **System Design • Data Structures & Algorithms • Cloud Architecture • DevOps Practices**
 
-
 <br>
 
-
 ## 🛠️ Tech Stack
-
 
 ### Programming Languages
 
