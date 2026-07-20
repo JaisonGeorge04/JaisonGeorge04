@@ -167,7 +167,6 @@ Features:
 
 ---
 
-
 ### ⚙️ Terraform Jenkins AWS Pipeline
 
 Cloud automation project implementing Infrastructure as Code and CI/CD workflows.
