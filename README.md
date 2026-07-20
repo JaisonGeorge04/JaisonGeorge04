@@ -171,9 +171,7 @@ Features:
 🔗 Repository:
 https://github.com/JaisonGeorge04/terraform-jenkins-aws
 
-
 <br>
-
 
 ## 📜 Certifications
 
