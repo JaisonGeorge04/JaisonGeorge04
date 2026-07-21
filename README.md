@@ -107,7 +107,6 @@ Currently improving my knowledge in:
 
 </p>
 
-
 ### AI & Machine Learning
 
 <p>
