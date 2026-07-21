@@ -90,7 +90,6 @@ Currently improving my knowledge in:
 
 </p>
 
-
 ### Web Development
 
 <p>
