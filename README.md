@@ -159,7 +159,7 @@ Cloud automation project implementing Infrastructure as Code and CI/CD workflows
 
 `AWS` `Terraform` `Jenkins` `Docker`
 
-Features:
+Features: 
 - AWS infrastructure provisioning
 - Automated deployment pipeline
 - DevOps workflow implementation
