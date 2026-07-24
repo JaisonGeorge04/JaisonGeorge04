@@ -47,14 +47,12 @@ flood-color="#000000"/>
 </defs>
 
 
-
 <!-- Background -->
 
 <rect width="1200"
 height="500"
 rx="35"
 fill="url(#darkBg)"/>
-
 
 
 <!-- Outer Frame -->
@@ -67,7 +65,6 @@ rx="35"
 fill="none"
 stroke="#d4af37"
 stroke-width="3"/>
-
 
 
 <!-- Inner Frame -->
