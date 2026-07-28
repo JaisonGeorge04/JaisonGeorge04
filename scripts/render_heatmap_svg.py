@@ -8,7 +8,7 @@ Less->More legend, and a real stats footer.
 
 Run by .github/workflows/update-profile-art.yml after fetch_contributions.py.
 """
-import datetime
+import datetime 
 import json
 import os
 
