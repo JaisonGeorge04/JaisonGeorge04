@@ -186,7 +186,6 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 
 </p>
 
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaisonGeorge04&theme=transparent"/>
@@ -200,27 +199,5 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub Contribution Graph"/>
 
 <br>
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jaison-george-887891310/">
-LinkedIn
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://jaisongeorge04.github.io/PortFolio/">
-Portfolio
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="mailto:jaisongeorge699@gmail.com">
-Email
-</a>
-
-</p>
 
 </div>
