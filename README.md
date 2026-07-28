@@ -5,7 +5,7 @@ github.com/JaisonGeorge04/JaisonGeorge04
 
 Assets:
 ./assets/banner.svg
-./avi-ascii.svg
+./avi-ascii.svg 
 ./info-card.svg
 ./contrib-heatmap.svg 
 -->
