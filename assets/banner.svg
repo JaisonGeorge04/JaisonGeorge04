@@ -86,16 +86,6 @@ stroke-width="1"/>
 stroke-width="3"
 fill="none">
 
-
-<path d="M70 120 H250 V70"/>
-
-<path d="M950 70 V120 H1130"/>
-
-<path d="M70 380 H250 V430"/>
-
-<path d="M950 430 V380 H1130"/>
-
-
 </g>
 
 <!-- Name Shadow -->
