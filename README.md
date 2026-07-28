@@ -35,10 +35,9 @@ Assets:
   Building scalable applications, AI-powered solutions, and cloud-native systems.
 </p>
 
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Projects;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Projects"/>
 
 </p>
 
