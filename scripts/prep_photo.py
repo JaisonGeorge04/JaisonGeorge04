@@ -14,7 +14,7 @@ Run once whenever the source photo changes; the ASCII SVG itself is static.
 import os
 import sys
 
-import cv2
+import cv2 
 import numpy as np
 from PIL import Image
 from rembg import remove
