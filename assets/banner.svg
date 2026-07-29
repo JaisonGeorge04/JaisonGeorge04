@@ -211,16 +211,13 @@ repeatCount="indefinite"/>
 </circle>
 
 
-<text
-x="50"
-y="43"
-font-size="25"
-font-weight="bold"
-fill="white">
-
-Py
-
-</text>
+<image
+    href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    x="35"
+    y="27"
+    width="30"
+    height="30"
+/>
 
 
 <text
