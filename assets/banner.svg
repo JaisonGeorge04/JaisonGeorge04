@@ -211,7 +211,7 @@ text-anchor="middle">
 
 
     <!-- Python Logo -->
-    <g transform="translate(31,16) scale(0.115)">
+    <g transform="translate(18,3) scale(0.20)">
 
         <!-- Blue Python -->
         <path
