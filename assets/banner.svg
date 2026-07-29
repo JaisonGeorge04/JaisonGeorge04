@@ -383,7 +383,7 @@ text-anchor="middle">
         stroke-width="3"/>
 
     <!-- Jenkins Butler -->
-    <g transform="translate(19,-1) scale(0.70)">
+    <g transform="translate(19,-1) scale(0.60)">
 
         <!-- Back / Shoulder -->
         <path
