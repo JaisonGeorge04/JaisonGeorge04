@@ -273,7 +273,7 @@ text-anchor="middle">
         stroke-width="3"/>
 
     <!-- Docker Whale -->
-    <g transform="translate(16,11)" fill="#FFFFFF">
+    <g transform="translate(14,11)" fill="#FFFFFF">
 
         <!-- Containers -->
         <rect x="12" y="14" width="9" height="8" rx="1"/>
