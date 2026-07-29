@@ -176,7 +176,6 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&theme=transparent"/>
