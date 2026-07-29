@@ -30,7 +30,6 @@ Assets:
   Software Developer | AI Engineer | Cloud & DevOps Enthusiast
 </h3>
 
-
 <p align="center">
   Building scalable applications, AI-powered solutions, and cloud-native systems.
 </p>
