@@ -248,218 +248,302 @@ text-anchor="middle">
 
 
 
-
 <!-- AWS -->
 
 <g transform="translate(170,0)">
 
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#111111"
+        stroke="#ff9900"
+        stroke-width="3"/>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#111111"
-stroke="#ff9900"
-stroke-width="3"/>
+    <!-- AWS Logo -->
+    <text
+        x="50"
+        y="35"
+        font-size="19"
+        font-weight="bold"
+        fill="#FFFFFF">
+        aws
+    </text>
 
+    <!-- AWS Smile -->
+    <path
+        d="M27 47 Q50 60 73 47"
+        stroke="#FF9900"
+        stroke-width="4"
+        stroke-linecap="round"
+        fill="none"/>
 
-<text
-x="50"
-y="42"
-font-size="20"
-font-weight="bold"
-fill="#ff9900">
+    <path
+        d="M68 46 L75 47 L72 53"
+        stroke="#FF9900"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
 
-aws
-
-</text>
-
-
-<path
-d="M25 52 Q50 65 75 52"
-stroke="#ff9900"
-stroke-width="3"
-fill="none"/>
-
-
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
-
-AWS
-
-</text>
-
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        AWS
+    </text>
 
 </g>
-
-
-
 
 
 <!-- Docker -->
 
 <g transform="translate(340,0)">
 
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#111111"
+        stroke="#ffd700"
+        stroke-width="3"/>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#2496ED"
-stroke="white"
-stroke-width="3"/>
+    <!-- Docker Logo -->
+    <g transform="translate(22,12) scale(0.56)" fill="#2496ED">
 
+        <!-- Containers -->
+        <rect x="10" y="18" width="10" height="9"/>
+        <rect x="23" y="18" width="10" height="9"/>
+        <rect x="36" y="18" width="10" height="9"/>
 
-<rect
-x="32"
-y="25"
-width="36"
-height="20"
-rx="3"
-fill="white"/>
+        <rect x="23" y="5" width="10" height="9"/>
+        <rect x="36" y="5" width="10" height="9"/>
 
+        <rect x="36" y="-8" width="10" height="9"/>
 
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
+        <!-- Whale Body -->
+        <path d="
+            M4 31
+            H50
+            C55 31 59 29 62 25
+            C65 21 68 19 73 19
+            C71 24 68 28 64 31
+            C62 47 50 57 31 57
+            C15 57 6 49 4 31
+            Z
+        "/>
 
-Docker
+        <!-- Tail -->
+        <path d="
+            M62 26
+            C68 25 72 27 76 31
+            C71 33 66 33 61 31
+            Z
+        "/>
 
-</text>
+    </g>
 
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        Docker
+    </text>
 
 </g>
-
-
-
 
 
 <!-- Terraform -->
 
 <g transform="translate(510,0)">
 
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#111111"
+        stroke="#ffd700"
+        stroke-width="3"/>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#7B42BC"
-stroke="white"
-stroke-width="3"/>
+    <!-- Terraform Logo -->
+    <g transform="translate(27,10)" fill="#7B42BC">
 
+        <path d="
+            M0 0
+            L18 10
+            L18 31
+            L0 21
+            Z
+        "/>
 
-<text
-x="50"
-y="46"
-font-size="32"
-font-weight="bold"
-fill="white">
+        <path d="
+            M22 12
+            L40 22
+            L40 43
+            L22 33
+            Z
+        "/>
 
-T
+        <path d="
+            M22 -12
+            L40 -2
+            L40 18
+            L22 8
+            Z
+        "/>
 
-</text>
+        <path d="
+            M44 0
+            L62 10
+            L44 20
+            Z
+        "/>
 
+    </g>
 
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
-
-Terraform
-
-</text>
-
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        Terraform
+    </text>
 
 </g>
-
-
-
 
 
 <!-- Jenkins -->
 
 <g transform="translate(680,0)">
 
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#111111"
+        stroke="#ffd700"
+        stroke-width="3"/>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#D24939"
-stroke="white"
-stroke-width="3"/>
+    <!-- Jenkins-style Butler -->
+    <g transform="translate(28,10)">
 
+        <!-- Head -->
+        <circle
+            cx="22"
+            cy="17"
+            r="15"
+            fill="#F5D0A9"
+            stroke="#D24939"
+            stroke-width="2"/>
 
-<text
-x="50"
-y="46"
-font-size="32"
-font-weight="bold"
-fill="white">
+        <!-- Hair -->
+        <path
+            d="M9 14
+               Q10 2 22 2
+               Q35 3 36 14
+               Q31 8 25 8
+               Q18 8 9 14Z"
+            fill="#333333"/>
 
-J
+        <!-- Eyes -->
+        <circle cx="17" cy="17" r="1.7" fill="#111111"/>
+        <circle cx="27" cy="17" r="1.7" fill="#111111"/>
 
-</text>
+        <!-- Moustache -->
+        <path
+            d="M16 23
+               Q22 27 28 23
+               Q25 29 22 29
+               Q19 29 16 23Z"
+            fill="#333333"/>
 
+        <!-- Body -->
+        <path
+            d="M8 33
+               Q22 27 36 33
+               L40 51
+               H4
+               Z"
+            fill="#FFFFFF"
+            stroke="#D24939"
+            stroke-width="2"/>
 
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
+        <!-- Bow Tie -->
+        <path
+            d="M15 34 L22 39 L15 44 Z
+               M29 34 L22 39 L29 44 Z"
+            fill="#D24939"/>
 
-Jenkins
+        <circle cx="22" cy="39" r="3" fill="#D24939"/>
 
-</text>
+    </g>
 
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        Jenkins
+    </text>
 
 </g>
-
-
-
 
 
 <!-- AI / ML -->
 
 <g transform="translate(850,0)">
 
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#111111"
+        stroke="#ffd700"
+        stroke-width="3"/>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#050505"
-stroke="#ffd700"
-stroke-width="3"/>
+    <!-- AI Neural Network Icon -->
+    <g
+        transform="translate(50,35)"
+        stroke="#ffd700"
+        stroke-width="2.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none">
 
+        <!-- Connections -->
+        <path d="M-18 -18 L0 -8 L18 -18"/>
+        <path d="M-18 0 L0 -8 L18 0"/>
+        <path d="M-18 18 L0 8 L18 18"/>
 
-<text
-x="50"
-y="45"
-font-size="22"
-font-weight="bold"
-fill="#ffd700">
+        <path d="M-18 -18 L0 8"/>
+        <path d="M18 -18 L0 8"/>
 
-AI
+        <path d="M-18 0 L0 8"/>
+        <path d="M18 0 L0 8"/>
 
-</text>
+        <!-- Nodes -->
+        <circle cx="-18" cy="-18" r="4" fill="#111111"/>
+        <circle cx="-18" cy="0" r="4" fill="#111111"/>
+        <circle cx="-18" cy="18" r="4" fill="#111111"/>
 
+        <circle cx="0" cy="-8" r="5" fill="#111111"/>
+        <circle cx="0" cy="8" r="5" fill="#111111"/>
 
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
+        <circle cx="18" cy="-18" r="4" fill="#111111"/>
+        <circle cx="18" cy="0" r="4" fill="#111111"/>
+        <circle cx="18" cy="18" r="4" fill="#111111"/>
 
-AI / ML
+    </g>
 
-</text>
-
-
-</g>
-
-
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        AI / ML
+    </text>
 
 </g>
 
