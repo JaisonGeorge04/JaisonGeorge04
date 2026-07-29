@@ -370,22 +370,301 @@ text-anchor="middle">
 
 
 
-!-- Jenkins -->
+<!-- Jenkins -->
 <g transform="translate(680,0)">
 
+    <!-- Background Circle -->
     <circle
         cx="50"
         cy="35"
         r="38"
-        fill="#D24939"
+        fill="#D92F2F"
         stroke="white"
         stroke-width="3"/>
 
-    <!-- Jenkins Logo -->
-    <g transform="translate(...) scale(...)">
-        <!-- Jenkins official logo SVG paths go here -->
+    <!-- Jenkins Butler -->
+    <g transform="translate(19,-1) scale(0.78)">
+
+        <!-- Back / Shoulder -->
+        <path
+            d="M22 52
+               C13 57 8 66 10 80
+               L14 99
+               C24 105 38 106 48 100
+               L52 68
+               C45 58 34 52 22 52Z"
+            fill="#335B72"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Head -->
+        <path
+            d="M20 16
+               C25 5 39 0 52 3
+               C67 6 76 18 75 34
+               C74 48 66 58 55 63
+               C44 68 31 64 24 55
+               C18 48 15 39 16 30
+               C16 24 17 19 20 16Z"
+            fill="#F3D4A6"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Hair -->
+        <path
+            d="M18 24
+               C18 12 26 4 38 1
+               C49 -2 63 2 69 10
+               C58 5 46 5 36 8
+               C29 10 24 15 21 22Z"
+            fill="#5A5757"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Side Hair -->
+        <path
+            d="M19 22
+               C12 25 10 33 12 42
+               L19 43
+               C18 37 19 31 24 27
+               L23 20Z"
+            fill="#696767"
+            stroke="#231F20"
+            stroke-width="3"/>
+
+        <!-- Ear -->
+        <path
+            d="M19 37
+               C12 31 8 38 10 46
+               C11 53 17 57 22 52
+               C24 49 23 44 21 42"
+            fill="#F3D4A6"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Left Eyebrow -->
+        <path
+            d="M31 25
+               C35 19 41 18 45 22"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Right Eyebrow -->
+        <path
+            d="M58 21
+               C62 17 68 18 71 23"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Left Eye -->
+        <path
+            d="M34 31
+               C37 35 42 35 45 31"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Right Eye -->
+        <path
+            d="M61 29
+               C64 33 68 33 71 29"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Nose -->
+        <path
+            d="M52 28
+               C51 36 55 39 59 42
+               C57 46 51 47 47 45"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+
+        <!-- Nose Highlight -->
+        <path
+            d="M51 34 L54 30"
+            stroke="#FFF0D5"
+            stroke-width="3"
+            stroke-linecap="round"/>
+
+        <!-- Smile -->
+        <path
+            d="M36 48
+               C45 56 59 57 68 47
+               C64 59 55 64 46 61
+               C40 59 36 54 36 48Z"
+            fill="#FFFFFF"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Neck -->
+        <path
+            d="M38 61
+               C44 66 54 67 60 61
+               L61 70
+               L39 70Z"
+            fill="#F3D4A6"
+            stroke="#231F20"
+            stroke-width="3"/>
+
+        <!-- White Shirt -->
+        <path
+            d="M37 66
+               L50 73
+               L62 66
+               L67 96
+               L48 105
+               L32 94Z"
+            fill="#FFFFFF"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Blue Suit Left -->
+        <path
+            d="M34 64
+               L17 55
+               L7 64
+               L13 98
+               L35 104
+               L44 77Z"
+            fill="#3B647C"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Blue Suit Right -->
+        <path
+            d="M63 64
+               L76 58
+               L84 66
+               L75 98
+               L57 103
+               L53 77Z"
+            fill="#3B647C"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Lapel -->
+        <path
+            d="M34 64
+               L48 75
+               L37 83
+               L50 88"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <path
+            d="M63 64
+               L52 75
+               L64 82
+               L54 88"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Red Bow Tie Left -->
+        <path
+            d="M48 69
+               C41 64 34 65 33 70
+               L35 82
+               C39 84 44 80 49 76Z"
+            fill="#E52B2F"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Red Bow Tie Right -->
+        <path
+            d="M52 69
+               C59 64 67 65 68 70
+               L67 81
+               C63 84 57 80 52 76Z"
+            fill="#E52B2F"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Bow Centre -->
+        <circle
+            cx="50"
+            cy="73"
+            r="4"
+            fill="#E52B2F"
+            stroke="#231F20"
+            stroke-width="2"/>
+
+        <!-- Shirt Buttons -->
+        <circle cx="55" cy="84" r="1.5" fill="#231F20"/>
+        <circle cx="57" cy="91" r="1.5" fill="#231F20"/>
+
+        <!-- Arm -->
+        <path
+            d="M20 83
+               C34 87 50 87 68 83"
+            fill="none"
+            stroke="#231F20"
+            stroke-width="5"
+            stroke-linecap="round"/>
+
+        <!-- White Cuff -->
+        <path
+            d="M67 81
+               L76 80
+               L78 94
+               L69 95Z"
+            fill="#FFFFFF"
+            stroke="#231F20"
+            stroke-width="3"/>
+
+        <!-- Gloved Hand -->
+        <path
+            d="M76 80
+               C84 74 92 76 94 82
+               C97 88 94 96 88 98
+               C84 99 79 97 76 94Z"
+            fill="#FFFFFF"
+            stroke="#231F20"
+            stroke-width="3"
+            stroke-linejoin="round"/>
+
+        <!-- Glove Finger Lines -->
+        <path d="M81 84 L90 83"
+            stroke="#777"
+            stroke-width="1.5"
+            stroke-linecap="round"/>
+
+        <path d="M81 88 L91 88"
+            stroke="#777"
+            stroke-width="1.5"
+            stroke-linecap="round"/>
+
+        <path d="M81 92 L89 93"
+            stroke="#777"
+            stroke-width="1.5"
+            stroke-linecap="round"/>
+
     </g>
 
+    <!-- Jenkins Label -->
     <text
         x="50"
         y="115"
