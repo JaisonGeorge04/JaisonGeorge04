@@ -247,7 +247,6 @@ text-anchor="middle">
 </g>
 
 
-
 <!-- AWS -->
 
 <g transform="translate(170,0)">
@@ -544,6 +543,8 @@ text-anchor="middle">
         fill="#ffd700">
         AI / ML
     </text>
+
+</g>
 
 </g>
 
