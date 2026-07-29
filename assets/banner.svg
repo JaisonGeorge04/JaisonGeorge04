@@ -193,42 +193,56 @@ text-anchor="middle">
 
 <g>
 
-<circle cx="50"
-cy="35"
-r="38"
-fill="#3776AB"
-stroke="#ffd700"
-stroke-width="3">
+    <circle
+        cx="50"
+        cy="35"
+        r="38"
+        fill="#3776AB"
+        stroke="#ffd700"
+        stroke-width="3">
+
+        <animate
+            attributeName="opacity"
+            values="0.7;1;0.7"
+            dur="3s"
+            repeatCount="indefinite"/>
+
+    </circle>
 
 
-<animate
-attributeName="opacity"
-values="0.7;1;0.7"
-dur="3s"
-repeatCount="indefinite"/>
+    <!-- Python Logo -->
+    <g transform="translate(31,16) scale(0.115)">
+
+        <!-- Blue Python -->
+        <path
+            fill="#FFFFFF"
+            d="M83.6 0C40.7 0 43.4 18.6 43.4 18.6l.05 19.2h40.9v5.8H27.2S0 40.5 0 83.4s23.8 41.3 23.8 41.3H38V104.8S37.3 81 61.4 81H102s22.8.4 22.8-22.1V22S128.3 0 83.6 0z
+
+            M61 13
+            a7.4 7.4 0 1 1 0 14.8
+            a7.4 7.4 0 1 1 0-14.8z"
+        />
+
+        <!-- Yellow Python -->
+        <path
+            fill="#FFD43B"
+            d="M84 167C127 167 124.3 148.4 124.3 148.4l-.05-19.2H83.3v-5.8h57.2s27.2 3.1 27.2-39.8-23.8-41.3-23.8-41.3h-14.2v19.9s.7 23.8-23.4 23.8H65.7s-22.8-.4-22.8 22.1V145s-3.5 22 41.1 22z
+
+            M106.6 154
+            a7.4 7.4 0 1 1 0-14.8
+            a7.4 7.4 0 1 1 0 14.8z"
+        />
+
+    </g>
 
 
-</circle>
-
-
-<image
-    href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    x="35"
-    y="27"
-    width="30"
-    height="30"
-/>
-
-
-<text
-x="50"
-y="115"
-font-size="18"
-fill="#ffd700">
-
-Python
-
-</text>
+    <text
+        x="50"
+        y="115"
+        font-size="18"
+        fill="#ffd700">
+        Python
+    </text>
 
 </g>
 
