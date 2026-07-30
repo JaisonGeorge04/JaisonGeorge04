@@ -131,7 +131,6 @@ height="180"
 fill="url(#shine)"
 opacity="0.25">
 
-
 <animate
 attributeName="x"
 from="-300"
