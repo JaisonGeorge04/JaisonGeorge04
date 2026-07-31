@@ -8,7 +8,7 @@ Assets:
 ./avi-ascii.svg 
 ./info-card.svg
 ./contrib-heatmap.svg 
--->
+--> 
 
 <div align="center">
 
