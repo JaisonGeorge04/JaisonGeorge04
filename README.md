@@ -144,7 +144,7 @@ Role-based Django application for managing hostel operations.
 Features:
 - Authentication system
 - Role-based access
-- Management workflows
+- Management workflows 
 
 ---
 
