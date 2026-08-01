@@ -150,7 +150,7 @@ Features:
 
 ### ⚙️ Terraform Jenkins AWS Pipeline
 
-Cloud automation project implementing Infrastructure as Code and CI/CD workflows.
+Cloud automation project implementing Infrastructure-as-Code and CI/CD workflows.
 
 **Tech Stack:**
 
@@ -177,15 +177,24 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&theme=transparent"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=JaisonGeorge04&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaisonGeorge04&theme=transparent"/>
-
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <br>
