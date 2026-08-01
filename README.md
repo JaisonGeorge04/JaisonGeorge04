@@ -173,7 +173,7 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 - TCS iON Cybersecurity Project
 
 <br>
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity & Contributions</h2>
 
 <p align="center">
   <img
