@@ -173,18 +173,11 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 - TCS iON Cybersecurity Project
 
 <br>
-
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
-</p>
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=JaisonGeorge04&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=JaisonGeorge04&theme=dark&hide_border=true&border_radius=12"
     alt="GitHub Streak"
   />
 </p>
@@ -192,12 +185,10 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
-
-<br>
 
 <!-- Contribution Animation -->
 
