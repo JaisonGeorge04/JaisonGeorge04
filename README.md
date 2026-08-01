@@ -178,10 +178,10 @@ https://github.com/JaisonGeorge04/terraform-jenkins-aws
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=JaisonGeorge04&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
     alt="GitHub Stats"
   />
+</p>
   <img
     height="170"
     src="https://streak-stats.demolab.com?user=JaisonGeorge04&theme=transparent&hide_border=true"
