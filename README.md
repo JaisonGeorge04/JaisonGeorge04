@@ -115,56 +115,89 @@ Currently improving my knowledge in:
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
+<table>
+<tr>
 
-AI-powered resume analysis platform that extracts skills, evaluates resumes, and provides intelligent insights.
+<td width="50%" valign="top">
 
-**Tech Stack:**
-`Python` `Streamlit` `NLP` `Machine Learning`
+### 🩺 Breast Cancer Prediction System
 
-Features:
-- Resume parsing
-- Skill extraction
-- Resume scoring
-- AI-based feedback generation
+A machine learning web application that predicts whether a breast tumor is **Benign** or **Malignant** using trained classification models through an interactive Streamlit interface.
 
-🔗 Repository:
-https://github.com/JaisonGeorge04/AI-Resume-Analyzer
+**Tech Stack**
 
----
+`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
 
-### 🏠 Hostel Management System
+<p>
+<a href="https://github.com/JaisonGeorge04/Breast_Cancer_Prediction_System">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Role-based Django application for managing hostel operations.
+<a href="https://breastcancerpredictionsystem-7ao7uxnm8cwekhbzzk5vks.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
 
-**Tech Stack:**
+</td>
 
-`Python` `Django` `JavaScript` `MySQL`
+<td width="50%" valign="top">
 
-Features:
-- Authentication system
-- Role-based access
-- Management workflows 
+### 🏨 Hostel Management System
 
----
+A role-based hostel management system for managing student records, room allocation, fee management, and administrative operations.
 
-### ⚙️ Terraform Jenkins AWS Pipeline
+**Tech Stack**
 
-Cloud automation project implementing Infrastructure-as-Code and CI/CD workflows.
+`Python` `Django` `SQLite` `Bootstrap`
 
-**Tech Stack:**
+<p>
+<a href="https://github.com/JaisonGeorge04/Hostel-Management-System">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-`AWS` `Terraform` `Jenkins` `Docker`
+</td>
 
-Features: 
-- AWS infrastructure provisioning
-- Automated deployment pipeline
-- DevOps workflow implementation
+</tr>
 
-🔗 Repository:
-https://github.com/JaisonGeorge04/terraform-jenkins-aws
+<tr>
 
-<br>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A responsive personal portfolio showcasing my projects, technical skills, certifications, and contact information with a modern user interface.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<p>
+<a href="https://github.com/JaisonGeorge04/PortFolio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jaisongeorge04.github.io/PortFolio/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🚧 More Projects
+
+Currently working on:
+
+- 🤖 AI Resume Analyzer
+- ☁️ Cloud & DevOps Projects
+- 🔐 Cybersecurity Projects
+
+</td>
+
+</tr>
+</table>
 
 ## 📜 Certifications
 
