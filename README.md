@@ -199,11 +199,79 @@ Currently working on:
 </tr>
 </table>
 
-## 📜 Certifications
+## 📜 Certifications & Industry Project
 
-- Cisco Introduction to Cybersecurity
-- Fortinet NSE 1
-- TCS iON Cybersecurity Project
+<p align="center">
+
+<a href="https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile">
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<a href="https://omp.dub.ai/certificate/zDwm3gJz6vQB">
+<img src="https://img.shields.io/badge/One%20Million%20Prompters-Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/UniAthena-Fundamentals%20of%20Digital%20Marketing-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TCS%20iON-90--Hour%20Industry%20Project-0052CC?style=for-the-badge"/>
+
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Certifications
+
+🛡️ **Introduction to Cybersecurity**  
+**Cisco Networking Academy**
+
+🔗 **Verification:**  
+https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile
+
+<br>
+
+🤖 **One Million Prompters – Prompt Engineering**
+
+🔗 **Verification:**  
+https://omp.dub.ai/certificate/zDwm3gJz6vQB
+
+<br>
+
+📈 **Fundamentals of Digital Marketing**  
+**UniAthena**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Industry Project
+
+🏢 **TCS iON Applied Industry Project**
+
+**Project**
+
+🔐 Securing a Smart Home Ecosystem
+
+**Duration**
+
+⏱️ 90-Hour Industry Project
+
+---
+
+### 📚 Learning Focus
+
+- Artificial Intelligence
+- Cloud Computing
+- DevOps
+- Cybersecurity
+- Software Development
+
+</td>
+
+</tr>
+</table>
 
 <br>
 <h2 align="center">📊 GitHub Activity & Contributions</h2>
