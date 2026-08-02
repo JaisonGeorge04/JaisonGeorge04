@@ -75,7 +75,7 @@ Currently improving my knowledge in:
 
 <br>
 
-## 🛠️ Tech Arsenal
+## 🛠️ 💼 Skills & Technologies
 
 <table>
 <tr>
