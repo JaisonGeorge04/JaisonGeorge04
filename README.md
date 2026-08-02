@@ -282,13 +282,17 @@ Currently working on:
 
 <p align="center">
 
+<p>
+
 <a href="https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile">
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verify-Cisco_Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
 
 <a href="https://omp.dub.ai/certificate/zDwm3gJz6vQB">
-<img src="https://img.shields.io/badge/One%20Million%20Prompters-Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verify-Prompt_Engineering-8A2BE2?style=for-the-badge"/>
 </a>
+
+</p>
 
 <img src="https://img.shields.io/badge/UniAthena-Fundamentals%20of%20Digital%20Marketing-FF6B35?style=for-the-badge"/>
 
