@@ -56,24 +56,39 @@ Assets:
 
 </p>
 
-<br>
-
 ## 👨‍💻 About Me
 
-I'm a **Software Developer and MCA student** passionate about building scalable applications, AI-driven solutions, and cloud-native systems.
+I'm a passionate **Software Developer** and **MCA student** focused on building scalable web applications, AI-powered solutions, and cloud-native systems.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** with a focus on **Cloud Computing**
-- 💻 Building full-stack applications using **Python, Django, JavaScript, SQL, and modern web technologies**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Generative AI applications**
-- ☁️ Developing skills in **Cloud & DevOps with AWS, Docker, Jenkins, Terraform, and Linux**
-- 🔐 Interested in **Cybersecurity, Cloud Infrastructure, and Secure Development Practices**
-- 🚀 Creating real-world projects combining **software engineering, AI, and cloud technologies**
+<table>
+<tr>
 
-Currently improving my knowledge in:
+<td width="50%">
 
-**System Design • Data Structures & Algorithms • Cloud Architecture • DevOps Practices**
+### 🎯 Current Focus
 
-<br>
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud & DevOps
+- 🔐 Cybersecurity
+- 🚀 Real-World Projects
+
+</td>
+
+<td width="50%">
+
+### 📚 Currently Learning
+
+- System Design
+- Data Structures & Algorithms
+- Cloud Architecture
+- DevOps Practices
+- Software Engineering
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ 💼 Skills & Technologies
 
