@@ -314,27 +314,24 @@ Currently working on:
 ### 🎓 Certifications
 
 🛡️ **Introduction to Cybersecurity**  
-**Cisco Networking Academy**
-
-🔗 **Verification:**  
-🛡️ **Introduction to Cybersecurity**  
 Cisco Networking Academy
 
 <a href="https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile">
-  <img src="https://img.shields.io/badge/Verify-Cisco_Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verify-Cisco_Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
+
+---
+
 🤖 **One Million Prompters – Prompt Engineering**
 
 <a href="https://omp.dub.ai/certificate/zDwm3gJz6vQB">
-  <img src="https://img.shields.io/badge/Verify-Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verify-Prompt_Engineering-8A2BE2?style=for-the-badge"/>
 </a>
 
+---
+
 📈 **Fundamentals of Digital Marketing**  
-**UniAthena**
-
-</td>
-
-<td width="50%" valign="top">
+UniAthena
 
 ### 💼 Industry Project
 
