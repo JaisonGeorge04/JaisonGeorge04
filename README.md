@@ -58,37 +58,43 @@ Assets:
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** and **MCA student** focused on building scalable web applications, AI-powered solutions, and cloud-native systems.
+I'm a passionate **Software Developer** and **MCA student** with a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **Full-Stack Development**. I enjoy building scalable applications, solving real-world problems, and continuously learning modern technologies.
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Current Focus
+### 🚀 What I'm Working On
 
-- 💻 Full-Stack Development
-- 🤖 Artificial Intelligence
+- 🤖 AI-powered Applications
+- 💻 Full-Stack Web Development
 - ☁️ Cloud & DevOps
-- 🔐 Cybersecurity
-- 🚀 Real-World Projects
+- 🔐 Secure Software Development
+- 🌍 Real-World Software Projects
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 Currently Learning
 
-- System Design
-- Data Structures & Algorithms
-- Cloud Architecture
-- DevOps Practices
-- Software Engineering
+- 🏗️ System Design
+- ⚡ Data Structures & Algorithms
+- ☁️ AWS Cloud Architecture
+- 🔄 DevOps Practices
+- 🤖 Generative AI
 
 </td>
 
 </tr>
 </table>
+
+<p align="center">
+
+💡 <i>"Always learning, always building, and always improving."</i>
+
+</p>
 
 ## 🛠️ 💼 Skills & Technologies
 
@@ -311,16 +317,17 @@ Currently working on:
 **Cisco Networking Academy**
 
 🔗 **Verification:**  
-https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile
+🛡️ **Introduction to Cybersecurity**  
+Cisco Networking Academy
 
-<br>
-
+<a href="https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile">
+  <img src="https://img.shields.io/badge/Verify-Cisco_Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
 🤖 **One Million Prompters – Prompt Engineering**
 
-🔗 **Verification:**  
-https://omp.dub.ai/certificate/zDwm3gJz6vQB
-
-<br>
+<a href="https://omp.dub.ai/certificate/zDwm3gJz6vQB">
+  <img src="https://img.shields.io/badge/Verify-Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+</a>
 
 📈 **Fundamentals of Digital Marketing**  
 **UniAthena**
