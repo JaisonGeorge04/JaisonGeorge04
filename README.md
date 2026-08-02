@@ -75,41 +75,105 @@ Currently improving my knowledge in:
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### Programming Languages
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+**Python • Java • JavaScript • HTML5 • CSS3**
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
+</p>
+
+**Django • React • Bootstrap**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+**MySQL • SQLite**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,linux" />
+</p>
+
+**AWS • Docker • Terraform • Jenkins • Linux**
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Git • GitHub • VS Code • Postman**
+
+</td>
+
+<td align="center">
+
+### 🤖 AI & ML
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </p>
-
-### Web Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,django,react"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square"/>
 
 </p>
 
-### Cloud & DevOps
+</td>
 
-<p>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git"/>
-
-</p>
-
-### AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-&nbsp; Machine Learning • NLP • Generative AI
-
-</p>
+</table>
 
 <br>
 
