@@ -278,13 +278,6 @@ https://omp.dub.ai/certificate/zDwm3gJz6vQB
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=JaisonGeorge04&theme=dark&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
     width="95%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-dark&hide_border=true"
     alt="Contribution Graph"
