@@ -58,7 +58,7 @@ Assets:
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** and **MCA student** with a strong interest in **Artificial Intelligence**, **Cloud Computing**, and **Full-Stack Development**. I enjoy building scalable applications, solving real-world problems, and continuously learning modern technologies.
+I'm a passionate **Software Developer** focused on **Artificial Intelligence, Full-Stack Development, and Cloud Computing**. I enjoy building practical applications that solve real-world problems while continuously learning modern technologies.
 
 <table>
 <tr>
@@ -107,8 +107,6 @@ I'm a passionate **Software Developer** and **MCA student** with a strong intere
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
-
-**Python • Java • JavaScript • HTML5 • CSS3**
 
 </td>
 
