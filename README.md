@@ -225,7 +225,7 @@ A machine learning web application that predicts whether a breast tumor is **Ben
 
 <td width="50%" valign="top">
 
-### 🏨 Hostel Management System
+### 🏨 Hostel Management System 
 
 A role-based hostel management system for managing student records, room allocation, fee management, and administrative operations.
 
