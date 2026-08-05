@@ -6,7 +6,6 @@
 -->
 <div align="center">
 
-
 ## YOUR NAME
 
 **Your Title · Second Thing · Third Thing**
