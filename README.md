@@ -118,7 +118,6 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 <img src="https://skillicons.dev/icons?i=django,react,bootstrap" />
 </p>
 
-
 </td>
 
 <td align="center" width="33%">
@@ -128,8 +127,6 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
-
-**MySQL • SQLite**
 
 </td>
 
