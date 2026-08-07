@@ -270,7 +270,7 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
-
+ 
 <p>
 <a href="https://github.com/JaisonGeorge04/PortFolio">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
