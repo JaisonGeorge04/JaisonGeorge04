@@ -283,8 +283,6 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 </td>
 
-<td width="50%" valign="top" align="center">
-
 </tr>
 </table>
 
