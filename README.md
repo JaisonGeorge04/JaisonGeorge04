@@ -238,6 +238,8 @@ A machine learning web application that predicts whether a breast tumor is **Ben
 </p>
 
 </td>
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
