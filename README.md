@@ -142,8 +142,6 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,linux" />
 </p>
 
-**AWS • Docker • Terraform • Jenkins • Linux**
-
 </td>
 
 <td align="center">
@@ -153,8 +151,6 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-**Git • GitHub • VS Code • Postman**
 
 </td>
 
