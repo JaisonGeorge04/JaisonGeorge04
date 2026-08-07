@@ -259,9 +259,6 @@ A role-based hostel management system for managing student records, room allocat
 
 </td>
 
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
