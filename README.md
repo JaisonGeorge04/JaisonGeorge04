@@ -195,6 +195,30 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 
 <td width="50%" valign="top">
 
+### 🤖 AI Resume Analyzer ⭐ Featured
+
+An AI-powered application that analyzes resumes, evaluates ATS compatibility, identifies missing keywords, and provides intelligent recommendations to improve resume quality.
+
+**Tech Stack**
+
+`React` `FastAPI` `Python` `Gemini AI` `Vite` `REST APIs`
+
+<p>
+
+<a href="https://github.com/JaisonGeorge04/AI-Resume-Analyzer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ai-resume-analyzer-ten-roan.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🩺 Breast Cancer Prediction System
 
 A machine learning web application that predicts whether a breast tumor is **Benign** or **Malignant** using trained classification models through an interactive Streamlit interface.
@@ -265,7 +289,6 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 Currently working on:
 
-- 🤖 AI Resume Analyzer
 - ☁️ Cloud & DevOps Projects
 - 🔐 Cybersecurity Projects
 
