@@ -285,15 +285,6 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 <td width="50%" valign="top" align="center">
 
-### 🚧 More Projects
-
-Currently working on:
-
-- ☁️ Cloud & DevOps Projects
-- 🔐 Cybersecurity Projects
-
-</td>
-
 </tr>
 </table>
 
