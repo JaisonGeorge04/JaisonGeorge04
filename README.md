@@ -27,7 +27,7 @@ Assets:
 
 
 <h3 align="center">
-  Software Developer | AI Engineer | Cloud & DevOps Enthusiast
+  Web Developer | AI Engineer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
