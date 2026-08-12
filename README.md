@@ -62,7 +62,7 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 
 <table>
 <tr>
-
+ 
 <td width="50%" valign="top">
 
 ### 🚀 What I'm Working On
