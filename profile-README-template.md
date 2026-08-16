@@ -8,7 +8,7 @@
   
 ## YOUR NAME 
 
-**Your Title · Second Thing · Third Thing**
+**Your Title · Second Thing · Third Thing** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
