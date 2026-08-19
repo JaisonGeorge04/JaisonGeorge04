@@ -3,7 +3,7 @@ Profile README for JaisonGeorge04
 Repository:        
 github.com/JaisonGeorge04/JaisonGeorge04      
       
-Assets:    
+Assets:     
 ./assets/banner.svg         
 ./avi-ascii.svg     
 ./info-card.svg 
