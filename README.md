@@ -337,7 +337,8 @@ UniAthena
 
 ### 💼 Industry Project
 
-🏢 **TCS iON Applied Industry Project**
+🏢 **"TCS iON Applied Industry Project"**
+**90-Hour Industry Project**
 
 **Project**
 
