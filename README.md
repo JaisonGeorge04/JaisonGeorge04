@@ -306,7 +306,7 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎓 Certifications
 
@@ -314,21 +314,26 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 Cisco Networking Academy
 
 <a href="https://www.credly.com/badges/a1de6d9e-ad7b-44b8-8670-40b5d27b6b6d/linked_in_profile">
-<img src="https://img.shields.io/badge/Verify-Cisco_Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verify-Credly-success?style=flat-square&logo=credly&logoColor=white"/>
 </a>
 
----
+<br><br>
 
-🤖 **One Million Prompters – Prompt Engineering**
+🤖 **One Million Prompters**  
+Prompt Engineering
 
 <a href="https://omp.dub.ai/certificate/zDwm3gJz6vQB">
-<img src="https://img.shields.io/badge/Verify-Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verify-Certificate-blue?style=flat-square"/>
 </a>
 
----
+<br><br>
 
 📈 **Fundamentals of Digital Marketing**  
 UniAthena
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 💼 Industry Project
 
@@ -342,15 +347,17 @@ UniAthena
 
 ⏱️ 90-Hour Industry Project
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### 📚 Learning Focus
 
-- Artificial Intelligence
-- Cloud Computing
-- DevOps
-- Cybersecurity
-- Software Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🔄 DevOps
+- 🔐 Cybersecurity
+- 💻 Software Development
 
 </td>
 
