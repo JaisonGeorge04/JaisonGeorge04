@@ -9,7 +9,7 @@ Assets:
 ./info-card.svg 
 ./contrib-heatmap.svg   
 --> 
-  
+   
 <div align="center"> 
 
 <!-- Premium Animated Gold Banner -->
