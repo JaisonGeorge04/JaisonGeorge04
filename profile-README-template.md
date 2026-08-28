@@ -5,7 +5,7 @@
   card the same height -- if you change the info card's H, re-match these.
 --> 
 <div align="center"> 
-  
+   
 ## YOUR NAME 
 
 **Your Title · Second Thing · Third Thing** 
