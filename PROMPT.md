@@ -2,7 +2,7 @@
 
 Copy everything in the block below into **Claude Code** (claude.com/claude-code)
 opened in this template folder. Fill in the four bracketed lines first. That's it.
-
+ 
 ---
 
 ```
