@@ -10,7 +10,7 @@ Assets:
 ./contrib-heatmap.svg   
 -->  
    
-<div align="center"> 
+<div align="center">  
 
 <!-- Premium Animated Gold Banner -->
 
