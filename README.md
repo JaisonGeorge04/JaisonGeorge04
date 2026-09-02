@@ -367,13 +367,11 @@ UniAthena
 <h2 align="center">📊 GitHub Activity & Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/JaisonGeorge04">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-compact&hide_border=true"
-      alt="Jaison George's GitHub Activity Graph"
-      width="95%"
-    />
-  </a>
+  <img
+    src="./contrib-heatmap.svg"
+    width="860"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <br>
