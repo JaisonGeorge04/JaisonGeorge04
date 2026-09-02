@@ -367,6 +367,14 @@ UniAthena
 <br>
 <h2 align="center">📊 GitHub Activity & Contributions</h2>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-dark&hide_border=true&area=true"
+    alt="Jaison George's GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
 <!-- Contribution Animation -->
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution Graph"/>
