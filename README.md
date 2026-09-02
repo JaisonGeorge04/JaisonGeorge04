@@ -370,7 +370,7 @@ UniAthena
 <p align="center"> 
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaisonGeorge04&theme=github-dark&hide_border=true" 
     alt="Contribution Graph"
   />
 </p>
