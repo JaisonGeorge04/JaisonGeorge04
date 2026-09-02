@@ -374,10 +374,6 @@ UniAthena
   />
 </p>
 
-<!-- Contribution Animation -->
-
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Graph"/>
-
 <br>
  
 </div>
