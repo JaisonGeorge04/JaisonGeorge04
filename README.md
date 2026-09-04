@@ -58,7 +58,7 @@ Assets:
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** focused on **Artificial Intelligence, Full-Stack Development, and Cloud Computing**. I enjoy building practical applications that solve real-world problems while continuously learning modern technologies
+I'm a passionate **Software Developer** focused on **Artificial Intelligence, Full-Stack Development, and Cloud Computing**. I enjoy building practical applications that solve real-world problems while continuously learning modern technologies.
 
 <table>
 <tr>
