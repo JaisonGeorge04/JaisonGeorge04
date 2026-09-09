@@ -86,7 +86,7 @@ I'm a passionate **Software Developer** focused on **Artificial Intelligence, Fu
 
 </td>
 
-</tr>
+</tr> 
 </table>
 
 <p align="center">
