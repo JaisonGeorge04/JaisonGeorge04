@@ -40,7 +40,7 @@ Assets:
 </p>
 
 <p align="center">
-
+ 
 <a href="https://jaisongeorge04.github.io/PortFolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
 </a>
