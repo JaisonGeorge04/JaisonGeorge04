@@ -12,7 +12,7 @@ Assets:
    
 <div align="center">       
  
-<!-- Premium Animated Gold Banner -->
+<!-- Premium Animated Gold Banner --> 
 
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Jaison George Banner"/>
