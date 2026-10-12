@@ -14,9 +14,9 @@ My details:
 - GitHub username: [https://github.com/JaisonGeorge04]
 - Name + tagline: [Jaison George — Title · Title · Title]
 - A photo of me to turn into ASCII art: C:\JAISON\Github\profesionalLook.jpg
-- Links Portfolio:-https://jaisongeorge04.github.io/PortFolio/
-         LinkedIn:- https://www.linkedin.com/in/jaison-george-887891310/
-         Instagram:- https://www.instagram.com/jaisongeorge699?igsh=NXBhODY3NnAwaHd6
+- Links Portfolio: https://jaisongeorge04.github.io/PortFolio/
+         LinkedIn: https://www.linkedin.com/in/jaison-george-887891310/
+         Instagram: https://www.instagram.com/jaisongeorge699?igsh=NXBhODY3NnAwaHd6
 
 Here is exactly what I want you to do, in order:
 
