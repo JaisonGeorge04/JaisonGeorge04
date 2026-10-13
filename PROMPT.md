@@ -39,7 +39,7 @@ Here is exactly what I want you to do, in order:
    STATIC=1 when generating.
 
 4. Info panel: edit the ROWS list + HOST at the top of scripts/make_info_card.py
-   with my real experience/stack / highlights (NOT github stats -- the graph
+   with my real experience/stack/highlights (NOT github stats -- the graph
    covers those), then run it to produce info-card.svg. Keep it the same height
    as the portrait; if it overflows, bump H in the script.
 
