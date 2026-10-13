@@ -31,7 +31,7 @@ Here is exactly what I want you to do, in order:
 3. Portrait: run `python scripts/prep_photo.py <my photo> source-prepped.png`
    (removes the background with rembg + boosts local contrast with CLAHE so my
    face is legible, not a dark blob), then `python scripts/make_ascii_svg.py` to
-   produce avi-ascii.svg -- a clean MONOCHROME ascii portrait that "types" itself
+   produce avi-ascii.svg -- a clean MONOCHROME ASCII portrait that "types" itself
    in like a terminal. Render a preview with `qlmanage -t -s 900 -o . avi-ascii.svg`
    (macOS) and show it to me. Tune CONTRAST / GAMMA / WHITE_FLOOR in the script
    (and clipLimit in prep_photo.py) until the face reads well. Note: the SVG
