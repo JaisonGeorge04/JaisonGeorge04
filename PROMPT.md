@@ -1,7 +1,7 @@
 # The Prompt
 
 Copy everything in the block below into **Claude Code** (claude.com/claude-code)
-Open it in this template folder. Fill in the four bracketed lines first. That's it.
+Open it in this template folder. First, fill in the four bracketed lines. That's it.
  
 --- 
 
