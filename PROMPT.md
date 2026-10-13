@@ -26,7 +26,7 @@ Here is exactly what I want you to do, in order:
    requirements-local.txt and scripts/requirements.txt.
 
 2. Create a public repo named EXACTLY my username (so GitHub renders it on my
-   profile). Use the gh CLI if I'm logged in; otherwise walk me through it.
+   profile). Use the gh CLI if I'm logged in; otherwise, walk me through it.
 
 3. Portrait: run `python scripts/prep_photo.py <my photo> source-prepped.png`
    (removes the background with rembg + boosts local contrast with CLAHE so my
