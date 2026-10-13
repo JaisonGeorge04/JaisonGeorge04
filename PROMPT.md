@@ -21,7 +21,7 @@ My details:
 Here is exactly what I want you to do, in order:
 
 1. Check my tools. I need Python 3 with: pillow, numpy, opencv-python, rembg,
-   onnxruntime (for the local one-time image prep) and requests + beautifulsoup4
+   onnxruntime (for the local one-time image prep), and requests + beautifulsoup4
    (for the contribution scraper). Install anything missing from
    requirements-local.txt and scripts/requirements.txt.
 
