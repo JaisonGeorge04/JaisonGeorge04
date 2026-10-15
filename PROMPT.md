@@ -41,7 +41,7 @@ Here is exactly what I want you to do, in order:
 4. Info panel: edit the ROWS list + HOST at the top of scripts/make_info_card.py
    with my real experience/stack/highlights (NOT GitHub stats -- the graph
    covers those), then run it to produce info-card.svg. Keep it the same height
-   as the portrait; if it overflows, bump H in the script.
+   as the portrait; if it overflows, bump H in the script. 
 
 5. Contribution graph: run `python scripts/fetch_contributions.py` (set
    GH_PROFILE_USER to my username) then `python scripts/render_heatmap_svg.py`
