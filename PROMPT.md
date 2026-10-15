@@ -68,3 +68,4 @@ clean and monochrome -- no rainbow colors, no glitch effects.
 
 That's the whole thing. The scripts do the heavy lifting; the prompt just drives
 them and customizes the content to you.
+ 
