@@ -236,7 +236,7 @@ A machine learning web application that predicts whether a breast tumor is **Ben
 </a>
 </p>
 
-</td>
+</td> 
 </tr>
 <tr>
 
